@@ -1,8 +1,10 @@
 #!/usr/bin/env node
 "use strict";
 
-var _index = require("../index");
+var _brainEven = require("../games/brain-even");
 
 console.log('Welcome to the Brain Games!');
-(0, _index.userName)();
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9iaW4vYnJhaW4tZ2FtZXMuanMiXSwibmFtZXMiOlsiY29uc29sZSIsImxvZyJdLCJtYXBwaW5ncyI6IkFBQUE7OztBQUVBOztBQUVBQSxPQUFPLENBQUNDLEdBQVIsQ0FBWSw2QkFBWjtBQUNBIiwic291cmNlc0NvbnRlbnQiOlsiIyEvdXNyL2Jpbi9lbnYgbm9kZVxuXG5pbXBvcnQgeyB1c2VyTmFtZSB9IGZyb20gJy4uL2luZGV4JztcblxuY29uc29sZS5sb2coJ1dlbGNvbWUgdG8gdGhlIEJyYWluIEdhbWVzIScpXG51c2VyTmFtZSgpO1xuXG4iXX0=
+console.log('Answer "yes" if number even otherwise answer "no".');
+(0, _brainEven.userName)();
+(0, _brainEven.question)();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9iaW4vYnJhaW4tZ2FtZXMuanMiXSwibmFtZXMiOlsiY29uc29sZSIsImxvZyJdLCJtYXBwaW5ncyI6IkFBQUE7OztBQUVBOztBQUdBQSxPQUFPLENBQUNDLEdBQVIsQ0FBWSw2QkFBWjtBQUNBRCxPQUFPLENBQUNDLEdBQVIsQ0FBWSxvREFBWjtBQUNBO0FBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIjIS91c3IvYmluL2VudiBub2RlXG5cbmltcG9ydCB7IHVzZXJOYW1lIH0gZnJvbSAnLi4vZ2FtZXMvYnJhaW4tZXZlbic7XG5pbXBvcnQgeyBxdWVzdGlvbiB9IGZyb20gJy4uL2dhbWVzL2JyYWluLWV2ZW4nO1xuXG5jb25zb2xlLmxvZygnV2VsY29tZSB0byB0aGUgQnJhaW4gR2FtZXMhJylcbmNvbnNvbGUubG9nKCdBbnN3ZXIgXCJ5ZXNcIiBpZiBudW1iZXIgZXZlbiBvdGhlcndpc2UgYW5zd2VyIFwibm9cIi4nKVxudXNlck5hbWUoKTtcbnF1ZXN0aW9uKCk7XG5cbiJdfQ==

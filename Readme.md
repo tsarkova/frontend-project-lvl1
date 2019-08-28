@@ -1,5 +1,7 @@
-<a href="https://codeclimate.com/github/tsarkova/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/d3a22aa13c66ad90e42c/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/d3a22aa13c66ad90e42c/maintainability)](https://codeclimate.com/github/tsarkova/frontend-project-lvl1/maintainability)
 
-<a href="https://codeclimate.com/github/tsarkova/frontend-project-lvl1/test_coverage"><img src="https://api.codeclimate.com/v1/badges/d3a22aa13c66ad90e42c/test_coverage" /></a>
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d3a22aa13c66ad90e42c/test_coverage)](https://codeclimate.com/github/tsarkova/frontend-project-lvl1/test_coverage)
 
-https://travis-ci.org/tsarkova/frontend-project-lvl1.svg?branch=master
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d3a22aa13c66ad90e42c/test_coverage)](https://codeclimate.com/github/tsarkova/frontend-project-lvl1/test_coverage)
+
+[![asciicast](https://asciinema.org/a/AETwgtzFrKqLo7MCXczYADggg.svg)](https://asciinema.org/a/AETwgtzFrKqLo7MCXczYADggg)
