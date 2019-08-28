@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+"use strict";
+
+var _brainGcd = require("../games/brain-gcd");
+
+console.log('Welcome to the Brain Games!');
+console.log('Answer "yes" if number even otherwise answer "no".');
+(0, _brainGcd.userName)();
+(0, _brainGcd.question)();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9iaW4vYnJhaW4tZ2NkLmpzIl0sIm5hbWVzIjpbImNvbnNvbGUiLCJsb2ciXSwibWFwcGluZ3MiOiJBQUFBOzs7QUFFQTs7QUFJQUEsT0FBTyxDQUFDQyxHQUFSLENBQVksNkJBQVo7QUFDQUQsT0FBTyxDQUFDQyxHQUFSLENBQVksb0RBQVo7QUFDQTtBQUNBIiwic291cmNlc0NvbnRlbnQiOlsiIyEvdXNyL2Jpbi9lbnYgbm9kZVxuXG5pbXBvcnQge3F1ZXN0aW9ufSBmcm9tICcuLi9nYW1lcy9icmFpbi1nY2QnO1xuXG5pbXBvcnQgeyB1c2VyTmFtZSB9IGZyb20gJy4uL2dhbWVzL2JyYWluLWdjZCc7XG5cbmNvbnNvbGUubG9nKCdXZWxjb21lIHRvIHRoZSBCcmFpbiBHYW1lcyEnKVxuY29uc29sZS5sb2coJ0Fuc3dlciBcInllc1wiIGlmIG51bWJlciBldmVuIG90aGVyd2lzZSBhbnN3ZXIgXCJub1wiLicpXG51c2VyTmFtZSgpO1xucXVlc3Rpb24oKTsiXX0=
