@@ -2,7 +2,8 @@
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/d3a22aa13c66ad90e42c/test_coverage)](https://codeclimate.com/github/tsarkova/frontend-project-lvl1/test_coverage)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/d3a22aa13c66ad90e42c/test_coverage)](https://codeclimate.com/github/tsarkova/frontend-project-lvl1/test_coverage)
+
+[![Build Status](https://travis-ci.org/tsarkova/frontend-project-lvl1.svg?branch=master)](https://travis-ci.org/tsarkova/frontend-project-lvl1)
 
 
 
