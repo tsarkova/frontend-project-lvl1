@@ -1,10 +1,9 @@
 #!/usr/bin/env node
 "use strict";
 
-var _brainCalc = require("../games/brain-calc");
+var _brainCalc = _interopRequireDefault(require("../games/brain-calc"));
 
-console.log('Welcome to the Brain Games!');
-console.log('Find the greatest common divisor of given numbers.');
-(0, _brainCalc.userName)();
-(0, _brainCalc.question)();
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9iaW4vYnJhaW4tY2FsYy5qcyJdLCJuYW1lcyI6WyJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiQUFBQTs7O0FBRUE7O0FBSUFBLE9BQU8sQ0FBQ0MsR0FBUixDQUFZLDZCQUFaO0FBQ0FELE9BQU8sQ0FBQ0MsR0FBUixDQUFZLG9EQUFaO0FBQ0E7QUFDQSIsInNvdXJjZXNDb250ZW50IjpbIiMhL3Vzci9iaW4vZW52IG5vZGVcblxuaW1wb3J0IHtxdWVzdGlvbn0gZnJvbSAnLi4vZ2FtZXMvYnJhaW4tY2FsYyc7XG5cbmltcG9ydCB7IHVzZXJOYW1lIH0gZnJvbSAnLi4vZ2FtZXMvYnJhaW4tY2FsYyc7XG5cbmNvbnNvbGUubG9nKCdXZWxjb21lIHRvIHRoZSBCcmFpbiBHYW1lcyEnKVxuY29uc29sZS5sb2coJ0ZpbmQgdGhlIGdyZWF0ZXN0IGNvbW1vbiBkaXZpc29yIG9mIGdpdmVuIG51bWJlcnMuJylcbnVzZXJOYW1lKCk7XG5xdWVzdGlvbigpOyJdfQ==
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+(0, _brainCalc.default)();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9iaW4vYnJhaW4tY2FsYy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7O0FBRUE7Ozs7QUFFQSIsInNvdXJjZXNDb250ZW50IjpbIiMhL3Vzci9iaW4vZW52IG5vZGVcblxuaW1wb3J0IGJyYWluQ2FsYyBmcm9tICcuLi9nYW1lcy9icmFpbi1jYWxjJztcblxuYnJhaW5DYWxjKCk7XG4iXX0=

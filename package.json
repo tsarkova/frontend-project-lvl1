@@ -1,8 +1,8 @@
 {
   "name": "hexlet",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Hexlet Project 'Brain Games'",
+  "main": "",
   "files": [
     "dist"
   ],
@@ -19,6 +19,10 @@
     "brain-progression": "dist/bin/brain-progression.js",
     "brain-prime": "dist/bin/brain-prime.js"
   },
+  "keywords": [
+    "hexlet",
+    "brain-games"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -35,6 +39,7 @@
     "eslint-plugin-babel": "^5.3.0"
   },
   "dependencies": {
+    "eslint-plugin-import": "^2.18.2",
     "readline-sync": "^1.4.10"
   }
 }
